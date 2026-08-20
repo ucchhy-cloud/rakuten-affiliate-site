@@ -1,0 +1,8 @@
+{
+  "name": "rakuten-affiliate-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "search-item": "node scripts/search-item.mjs"
+  }
+}
